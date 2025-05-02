@@ -12,3 +12,7 @@ Mini-Project duration: January 2025 - May 2025
 
 Reference:<br>
 Nongmeikapam, K., Singh, N. H., Thoudam, S., & Bandyopadhyay, S. (2011). Manipuri transliteration from bengali script to meitei mayek: A rule based approach. In Information Systems for Indian Languages: International Conference, ICISIL 2011, Patiala, India, March 9-11, 2011. Proceedings (pp. 195-198). Springer Berlin Heidelberg.
+
+
+# Instruction:
+* In the first step, while loading the JSON file, the filepath should be changed accordingly based on where it locates.
