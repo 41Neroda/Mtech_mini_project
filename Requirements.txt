@@ -1,0 +1,8 @@
+Hardware Requirement: 
+	CPU (Processor) -->  AMD Ryzen 5
+	RAM --> 8 GB (Minimum)
+	GPU --> NVIDIA GeForce GTX 1650
+
+Software Requirement:
+	Software --> Jupyter Notebook, Python 3.12.2
+	Python Modules --> json (built-in)
